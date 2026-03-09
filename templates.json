@@ -9,6 +9,15 @@
       "techStack": ["React", "TypeScript", "Vite", "Tailwind CSS"],
       "mode": "webapp",
       "repo": "Pop-DB/popdb-template--typescript-react"
+    },
+    {
+      "id": "typescript-agent",
+      "name": "TypeScript Agent",
+      "description": "AI agents, automations, and event-driven pipelines with TypeScript handlers, pre-configured with AI, integrations, and database access",
+      "useCase": "AI agents, automations, cron jobs, webhooks, and multi-step pipelines",
+      "techStack": ["TypeScript"],
+      "mode": "agent",
+      "repo": "Pop-DB/popdb-template--typescript-agent"
     }
   ]
 }
