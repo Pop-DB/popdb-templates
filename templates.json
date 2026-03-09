@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "typescript-react",
+      "name": "React + TypeScript Web App",
+      "description": "Multi-user web app with React + TypeScript + Vite + Tailwind, pre-configured auth and PopDB integration",
+      "useCase": "Web apps with user signup, login, and per-user data",
+      "techStack": ["React", "TypeScript", "Vite", "Tailwind CSS"],
+      "mode": "webapp",
+      "repo": "Pop-DB/popdb-template--typescript-react"
+    }
+  ]
+}
