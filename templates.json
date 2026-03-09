@@ -22,6 +22,17 @@
       "techStack": ["TypeScript"],
       "mode": "agent",
       "repo": "Pop-DB/popdb-template--typescript-agent"
+    },
+    {
+      "id": "typescript-agent-with-web",
+      "name": "TypeScript Agent + React Web App",
+      "displayName": "AI Agent + Web Dashboard",
+      "description": "Agent-mode app with React + TypeScript + Vite frontend and server-side event handlers, pre-configured with auth, AI, integrations, and database access",
+      "displayDescription": "Build an AI agent or automation that also has a web dashboard. Great for admin panels, monitoring dashboards, internal tools, or any automation that needs a UI.",
+      "useCase": "AI agents and automations with a web UI for monitoring, configuration, or data visualization",
+      "techStack": ["React", "TypeScript", "Vite"],
+      "mode": "agent",
+      "repo": "Pop-DB/popdb-template--typescript-agent-with-web"
     }
   ]
 }
