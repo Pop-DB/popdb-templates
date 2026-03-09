@@ -4,7 +4,9 @@
     {
       "id": "typescript-react",
       "name": "React + TypeScript Web App",
+      "displayName": "Web App",
       "description": "Multi-user web app with React + TypeScript + Vite + Tailwind, pre-configured auth and PopDB integration",
+      "displayDescription": "Build a web app where people can sign up, log in, and use your product. Great for SaaS tools, dashboards, marketplaces, or any app with multiple users.",
       "useCase": "Web apps with user signup, login, and per-user data",
       "techStack": ["React", "TypeScript", "Vite", "Tailwind CSS"],
       "mode": "webapp",
@@ -13,7 +15,9 @@
     {
       "id": "typescript-agent",
       "name": "TypeScript Agent",
+      "displayName": "AI Agent / Automation",
       "description": "AI agents, automations, and event-driven pipelines with TypeScript handlers, pre-configured with AI, integrations, and database access",
+      "displayDescription": "Build automations, AI agents, or background workflows that run on a schedule or respond to events. Great for bots, data pipelines, notifications, and internal tools.",
       "useCase": "AI agents, automations, cron jobs, webhooks, and multi-step pipelines",
       "techStack": ["TypeScript"],
       "mode": "agent",
